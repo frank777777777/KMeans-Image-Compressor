@@ -2,5 +2,16 @@
 2.Compile the code using javac KMeans.java
 3.Run the compiled binary using KMeans <input-image> <k> <output-image>. No arrow brackets, just parameters, seperated by spaces.
 4.Here we go.
+<br><br><br>
+Original
+<img src="images/Penguins.jpg" width="500">
+K = 20
+<img src="images/Penguins_K20.jpg" width="500">
 <br>
-<img src="images/Penguins_K20.jpg" width="300">
+K = 15
+<img src="images/Penguins_K15.jpg" width="500">
+K = 10
+<img src="images/Penguins_K10.jpg" width="500">
+<br>
+K = 5
+<img src="images/Penguins_K5.jpg" width="500">
