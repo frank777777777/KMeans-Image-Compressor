@@ -4,14 +4,16 @@
 4.Here we go.
 <br><br><br>
 Original
-<img src="images/Penguins.jpg" width="500">
+<img src="images/Penguins.jpg" width="400">
 K = 20
-<img src="images/Penguins_K20.jpg" width="500">
+<img src="images/Penguins_K20.jpg" width="400">
 <br>
 K = 15
-<img src="images/Penguins_K15.jpg" width="500">
+<img src="images/Penguins_K15.jpg" width="400">
 K = 10
-<img src="images/Penguins_K10.jpg" width="500">
+<img src="images/Penguins_K10.jpg" width="400">
 <br>
 K = 5
-<img src="images/Penguins_K5.jpg" width="500">
+<img src="images/Penguins_K5.jpg" width="400">
+K = 2
+<img src="images/Penguins_K2.jpg" width="400">
