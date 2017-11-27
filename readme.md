@@ -2,4 +2,4 @@
 2.Compile the code using javac KMeans.java
 3.Run the compiled binary using KMeans <input-image> <k> <output-image>. No arrow brackets, just parameters, seperated by spaces.
 4.Here we go.
-![alt text](https://github.com/frank777777777/KMeans-Image-Compressor/blob/master/Koala_K20.jpg "Koala_K20.jpg")
+<img src="images/Penguins_K20.jpg" width="100">
